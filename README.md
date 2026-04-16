@@ -1,7 +1,7 @@
 # ☄️ Hazardous Asteroid Detection using Machine Learning
 
 ![ML](https://img.shields.io/badge/Machine%20Learning-Classification-blue)
-![Status](https://img.shields.io/badge/Project-Ongoing-green)
+![Status](https://img.shields.io/badge/Project-Finished-green)
 ![Python](https://img.shields.io/badge/Python-3.8+-yellow)
 
 ---
